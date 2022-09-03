@@ -270,7 +270,7 @@
   />
 </p>
 
-## My Tech Stack:
+## 🧐 My Tech Stack:
 
 - **Client:** HTML, CSS, Sass, Bootstrap, Javascript, React,Redux
 - **Server:** Javascript, Node, Mongodb, Express
