@@ -79,7 +79,7 @@
 
 ## 🛠 Skills:
 
-<h3 align="center">Competitive Programming:</h3>
+<h2 align="center">Competitive Programming:</h2>
 <p align="center">
   <a href="https://codeforces.com/profile/moody_99" target="blank">
     <img
