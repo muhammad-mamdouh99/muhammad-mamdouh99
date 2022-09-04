@@ -201,14 +201,14 @@
     height="30"
   />
   <img
-    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-    alt="nodejs"
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="postgresql"
     width="100"
     height="30"
   />
   <img
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="postgresql"
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+    alt="nodejs"
     width="100"
     height="30"
   />
