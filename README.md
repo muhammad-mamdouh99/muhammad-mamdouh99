@@ -107,7 +107,7 @@
     align="center"
     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
     alt="c"
-    width="70"
+    width="100"
     height="30"
   />
   <img
