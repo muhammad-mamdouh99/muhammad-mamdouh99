@@ -1,6 +1,6 @@
 <!-- **muhammad-mamdouh99/muhammad-mamdouh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h3 align="center">
+<h3 align="center" width="600">
   Welcome to Muhammad Mamdouh's profile!
   <img 
     src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" 
@@ -14,15 +14,6 @@
       src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Muhammad+Mamdouh;Computer+Systems+Engineering+Student;Software+Engineer;Competitive+Programmer;MERN+STACK+Developer;Always+learning+new+things"
     />
   </a>
-</p>
-
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=muhammad-mamdouh99&label=Profile%20views&color=0e75b6&style=flat"
-    alt="profile-views"
-  />
 </p>
 
 ## 🚀 About me :thinking:
