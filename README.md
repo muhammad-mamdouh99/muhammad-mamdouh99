@@ -1,16 +1,12 @@
 <!-- **muhammad-mamdouh99/muhammad-mamdouh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="35"
+<h3 align="center">
+  Welcome to Muhammad Mamdouh's profile!
+  <img 
+    src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" 
+    width="30"
   />
-  Hello, Friends!
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="35"
-  />
-</h1>
+</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
