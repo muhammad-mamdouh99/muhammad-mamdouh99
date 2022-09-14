@@ -1,6 +1,10 @@
 <!-- **muhammad-mamdouh99/muhammad-mamdouh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h3 align="center" width="600">
+  <img 
+    src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" 
+    width="30"
+  />
   Welcome to Muhammad Mamdouh's profile!
   <img 
     src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" 
