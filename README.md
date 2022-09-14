@@ -7,7 +7,7 @@
   />
   Welcome to Muhammad Mamdouh's profile!
   <img 
-    src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" 
+    src="https://slackmojis.com/emojis/4239-blob-hearts/download" 
     width="30"
   />
 </h2>
