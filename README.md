@@ -2,7 +2,7 @@
 
 <h2 align="center" width="600">
   <img 
-    src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" 
+    src="https://slackmojis.com/emojis/4239-blob-hearts/download" 
     width="30"
   />
   Welcome to Muhammad Mamdouh's profile!
