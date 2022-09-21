@@ -13,14 +13,24 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Muhammad+Mamdouh;Computer+Systems+Engineering+Student;Software+Engineer;Competitive+Programmer;MERN+STACK+Developer;Always+learning+new+things"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=20B8AF&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Muhammad+Mamdouh;Computer+Systems+Engineering+Student;Software+Engineer;Competitive+Programmer;MERN-STACK+Developer;Always+learning+new+things"
     />
   </a>
 </p>
 
-## 🚀 About me :thinking:
+[comment]: <> (for streak dark theme => &theme=dark)
+
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-mamdouh99&theme=dark"
+    alt="muhammad-mamdouh99"
+  />
+</p>
+
+## <img src="https://slackmojis.com/emojis/12725-venting/download" width=50px> About me:
 
 - :school: I am a `Computer Systems Engineering Student` at [Faculty of Engineering at Shoubra - Benha University](https://www.feng.bu.edu.eg/en/).
 - 🔭 I’m currently working on `JavaScript Projects`
@@ -188,12 +198,6 @@
   <img
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
     alt="mongodb"
-    width="100"
-    height="30"
-  />
-  <img
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="postgresql"
     width="100"
     height="30"
   />
