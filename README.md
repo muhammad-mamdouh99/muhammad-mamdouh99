@@ -33,8 +33,8 @@
 ## <img src="https://slackmojis.com/emojis/12725-venting/download" width=50px> About me:
 
 - :school: I am a `Computer Systems Engineering Student` at [Faculty of Engineering at Shoubra - Benha University](https://www.feng.bu.edu.eg/en/).
-- 🔭 I’m currently working on `JavaScript Projects`
-- 🌱 I’m currently learning `Javascript, Data Structures, Algorithms and Databases`
+- 🔭 I’m currently working on `Frontend Projects`
+- 🌱 I’m currently learning `Javascript`
 - 👯 I’m looking to collaborate on `Google Summer of Code`
 - ⚡ Fun fact `I think I am a TECH-GEEK`
 
@@ -264,8 +264,3 @@
     height="30"
   />
 </p>
-
-## 🧐 My Tech Stack:
-
-- **Client:** HTML, CSS, Sass, Bootstrap, Javascript, React,Redux
-- **Server:** Javascript, Node, Mongodb, Express
