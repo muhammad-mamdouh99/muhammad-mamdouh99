@@ -119,8 +119,8 @@
   />
 </p>
 
-<h3 align="center">Frontend Development:</h3>
-<p align="center">
+<h3 align="left">Frontend Development:</h3>
+<p align="left">
   <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
     alt="html5"
@@ -165,8 +165,8 @@
   />
 </p>
 
-<h3 align="center">Backend Development:</h3>
-<p align="center">
+<h3 align="left">Backend Development:</h3>
+<p align="left">
   <img
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
     alt="javascript"
@@ -193,8 +193,8 @@
   />
 </p>
 
-<h3 align="center">Operating Systems:</h3>
-<p align="center">
+<h3 align="left">Operating Systems:</h3>
+<p align="left">
   <img
     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
     alt="linux"
@@ -221,8 +221,8 @@
   />
 </p>
 
-<h3 align="center">Tools:</h3>
-<p align="center">
+<h3 align="left">Tools:</h3>
+<p align="left">
   <img
     src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
     alt="git"
@@ -243,8 +243,8 @@
   />
 </p>
 
-<h3 align="center">Competitive Programming:</h3>
-<p align="center">
+<h3 align="left">Competitive Programming:</h3>
+<p align="left">
   <a href="https://www.leetcode.com/moody_99" target="blank">
     <img
       align="center"
