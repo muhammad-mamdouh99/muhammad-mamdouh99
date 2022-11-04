@@ -80,19 +80,6 @@
 
 ## 🛠 Skills:
 
-<h3 align="center">Competitive Programming:</h3>
-<p align="center">
-  <a href="https://www.leetcode.com/moody_99" target="blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
-      alt="leetcode"
-      height="30"
-      width="130"
-    />
-  </a>
-</p>
-
 <h3 align="center">Languages:</h3>
 <p align="center">
   <img
@@ -254,4 +241,17 @@
     width="100"
     height="30"
   />
+</p>
+
+<h3 align="center">Competitive Programming:</h3>
+<p align="center">
+  <a href="https://www.leetcode.com/moody_99" target="blank">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+      alt="leetcode"
+      height="30"
+      width="130"
+    />
+  </a>
 </p>
