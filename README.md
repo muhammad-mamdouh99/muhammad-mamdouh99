@@ -82,15 +82,6 @@
 
 <h3 align="center">Competitive Programming:</h3>
 <p align="center">
-  <a href="https://codeforces.com/profile/moody_99" target="blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"
-      alt="codeforces"
-      height="30"
-      width="130"
-    />
-  </a>
   <a href="https://www.leetcode.com/moody_99" target="blank">
     <img
       align="center"
@@ -120,7 +111,7 @@
   />
   <img
     align="center"
-    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
     alt="python"
     width="100"
     height="30"
