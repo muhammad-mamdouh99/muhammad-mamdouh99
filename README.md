@@ -80,8 +80,8 @@
 
 ## 🛠 Skills:
 
-<h3 align="center">Languages:</h3>
-<p align="center">
+<h3 align="left">Languages:</h3>
+<p align="left">
   <img
     align="center"
     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
