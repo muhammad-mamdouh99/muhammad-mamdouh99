@@ -36,7 +36,7 @@
 - 🔭 I’m currently working on `Frontend Projects`
 - 🌱 I’m currently learning `Javascript`
 - 👯 I’m looking to collaborate on `Google Summer of Code`
-- ⚡ Fun fact `I think I am a TECH-GEEK`
+- ⚡ Fun fact `I Flip Bits For a Living`
 
 ## 🤙 Connect with me:
 
