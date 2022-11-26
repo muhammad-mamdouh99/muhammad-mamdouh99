@@ -32,11 +32,11 @@
 
 ## <img src="https://slackmojis.com/emojis/12725-venting/download" width=50px> About me:
 
-- :school: I am a `Computer Systems Engineering Student` at [Faculty of Engineering at Shoubra - Benha University](https://www.feng.bu.edu.eg/en/).
-- 🔭 I’m currently working on `Frontend Projects`
-- 🌱 I’m currently learning `Javascript`
-- 👯 I’m looking to collaborate on `Google Summer of Code`
-- ⚡ Fun fact `I Flip Bits For a Living`
+- :school: I am a `Computer Systems Engineering Student` at `[Faculty of Engineering at Shoubra - Benha University](https://www.feng.bu.edu.eg/en/).`
+- 🔭 I’m currently working on `Frontend Projects.`
+- 🌱 I’m currently learning `JavaScript.`
+- 👯 I’m looking to collaborate on `Open Source Projects.`
+- ⚡ Fun fact `I Flip Bits For a Living.`
 
 ## 🤙 Connect with me:
 
