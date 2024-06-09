@@ -22,13 +22,13 @@
 
 <div>
   <a href="https://www.linkedin.com/in/muhammad-mamdouh99/" target="_blank" style="text-decoration: none; display: inline-block">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50" height="50" alt="linkedin logo"  />
   </a>
   <a href="mailto:muhammad.mamdouh99@gmail.com" target="_blank" style="text-decoration: none; display: inline-block">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="50" height="50" alt="gmail logo"  />
   </a>
   <a href="https://x.com/weirdocodes" target="_blank" style="text-decoration: none; display: inline-block">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="50" height="50" alt="twitter logo"  />
   </a>
   <a href="https://dev.to/muhammadmamdouh99" target="_blank" style="text-decoration: none; display: inline-block">
     <img src="https://skillicons.dev/icons?i=devto" />
