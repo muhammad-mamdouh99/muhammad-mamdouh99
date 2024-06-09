@@ -21,9 +21,7 @@
 ## 🤙 Connect with me:
 
 <div>
-  <a href="https://www.linkedin.com/in/muhammad-mamdouh99/" target="_blank" style="text-decoration: none; display: inline-block">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+    [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/muhammad-mamdouh99/)
   <a href="mailto:muhammad.mamdouh99@gmail.com" target="_blank style="text-decoration: none; display: inline-block"">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
