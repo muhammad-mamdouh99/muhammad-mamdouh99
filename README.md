@@ -18,9 +18,7 @@
 - 👯 I’m looking to collaborate on `Open Source Projects.`
 - ⚡ Fun fact `I Flip Bits For a Living.`
 
-<h3 align="left">
-    Languages:
-</h3>
+### Languages:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
