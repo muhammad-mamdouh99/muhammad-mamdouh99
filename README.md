@@ -18,39 +18,31 @@
 - 👯 I’m looking to collaborate on `Open Source Projects.`
 - ⚡ Fun fact `I Flip Bits For a Living.`
 
-### Languages:
+## Languages:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
 </div>
 
-<h3 align="left">
-    Frontend Development:
-</h3>
+## Frontend Development:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,react,redux,nextjs" />
 </div>
 
-<h3 align="left">
-    Backend Development:
-</h3>
+## Backend Development:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 </div>
 
-<h3 align="left">
-    Tools:
-</h3>
+## Tools:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,npm,babel" />
 </div>
 
-<h3 align="left">
-    Operating Systems:
-</h3>
+## Operating Systems:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
