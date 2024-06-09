@@ -18,48 +18,41 @@
 - 👯 I’m looking to collaborate on `Open Source Projects.`
 - ⚡ Fun fact `I Flip Bits For a Living.`
 
-## 🤙 Connect with me:
-
-<div>
-  <a href="https://www.linkedin.com/in/muhammad-mamdouh99/" target="_blank" style="text-decoration: none; display: inline-block">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:muhammad.mamdouh99@gmail.com" target="_blank" style="text-decoration: none; display: inline-block">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="50" height="50" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/weirdocodes" target="_blank" style="text-decoration: none; display: inline-block">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="50" height="50" alt="twitter logo"  />
-  </a>
-  <a href="https://dev.to/muhammadmamdouh99" target="_blank" style="text-decoration: none; display: inline-block">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-</div>
-
-## Languages:
+<h3 align="left">
+    Languages:
+</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
 </div>
 
-## Frontend Development:
+<h3 align="left">
+    Frontend Development:
+</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,react,redux,nextjs" />
 </div>
 
-## Backend Development:
+<h3 align="left">
+    Backend Development:
+</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 </div>
 
-## Tools:
+<h3 align="left">
+    Tools:
+</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,npm,babel" />
 </div>
 
-## Operating Systems:
+<h3 align="left">
+    Operating Systems:
+</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
