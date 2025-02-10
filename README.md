@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on `Frontend Projects.`
 - 🌱 I’m currently learning `JavaScript.`
 - 👯 I’m looking to collaborate on `Open Source Projects.`
-- ⚡ Fun fact `I Flip Bits For a Living.`
+- ⚡ Fun fact `I turn caffeine into code ^_^.`
 
 ## Languages:
 
